@@ -3,7 +3,7 @@ foodbankcoin: A distributed network for the Smart Economy
 
 foodbankcoin uses digital identity and blockchain technology to digitize assets and leverages smart contracts for autonomously managed digital assets to create a "smart economy" within a decentralized network.
 
-To learn more about NEO, please read the [White Paper](http://docs.neo.org/en-us/index.html)|[白皮书](http://docs.neo.org/zh-cn/index.html).
+To learn more about foodbnkcoin, please read the [White Paper](http://docs.neo.org/en-us/index.html)|[白皮书](http://docs.neo.org/zh-cn/index.html).
 
 Supported Platforms
 --------
